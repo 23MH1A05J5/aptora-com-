@@ -257,3 +257,12 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 - **Repository**: [23mh1a05g0 / Apttora](https://github.com/23mh1a05g0/Apttora)
 - Developed with ❤️ for students, aspiring engineers, and placement candidates.
+
+
+## Project Information
+
+Project Name: Aptora
+
+Technology: Flutter and Dart
+
+This repository contains the Aptora Flutter application.
